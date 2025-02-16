@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+TIGRE-2.3
+mat_data/toothfairycbct
+pickle_data/toothfairycbct

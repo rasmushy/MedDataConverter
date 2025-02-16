@@ -1,0 +1,18 @@
+name: meddataconverter
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - cmake
+  - cython
+  - numpy=1.23.5
+  - pyyaml
+  - scipy
+  - simpleitk
+  - imageio
+  - matplotlib
+  - scikit-image
+  - pip
+  - pip:
+      - opencv-python

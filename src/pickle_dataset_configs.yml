@@ -1,0 +1,43 @@
+toothfairycbct:
+  DSD: 1500
+  DSO: 1000
+  accuracy: 0.5
+  autoAdjust: true
+  convert: true
+  dDetector:
+  - 1.0
+  - 1.0
+  dVoxel:
+  - 0.9336
+  - 0.9336
+  - 1.8779
+  dtype: null
+  filter: null
+  mode: cone
+  nDetector:
+  - 512
+  - 512
+  nVoxel:
+  - 262
+  - 512
+  - 512
+  noise: 0
+  normalize: true
+  numTest: auto
+  numTrain: 179
+  numVal: 51
+  offDetector:
+  - 0
+  - 0
+  offOrigin:
+  - 0
+  - 0
+  - 0
+  randomAngle: false
+  raw_file: ToothFairy2F_001_0000.mha
+  rescale_intercept: 0.0
+  rescale_slope: 1.0
+  startAngle: 0.0
+  totalAngle: 180.0
+  trainRatio: 0.7
+  valRatio: 0.2
